@@ -17,3 +17,10 @@
 - 주식을 사고팔기 가장 좋은 시점 (leetcode 121. Best Time to Buy and Sell Stock)
 <br>
 
+### [3주차](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/3w.ipynb)
+- 팰린드론 연결리스트 (234. Palindrome Linked List)
+- 두 정렬 리스트의 병합 (21. Merge Two Sorted Lists)
+- 역순 연결 리스트 (206. Reverse Linked List)
+- 두 수의 덧셈 (2. Add Two Numbers)
+- 페어의 노드 스왑 (24. Swap Nodes in Pairs)
+<br>
