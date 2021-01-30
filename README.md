@@ -1,26 +1,39 @@
 # Coding Master
-### [1주차](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/1w.md)
-- 유효한 팰린드롬 (leetcode 125. Valid Palindrome)
-- 문자열 뒤집기 (leetcode 344. Reverse String)
-- 로그 파일 재정렬 (leetcode 937. Reorder Log File)
-- 가장 흔한 단어 (leetcode 819. Most Common Word)
-- 그룹 애너그램 (leetcode 49. Group Anagrams)
-- 가장 긴 펠린드롬 부분 문자열 (leetcode 5. Longest Palindrome Substring)
+
+## 1주차
+
+|Site|Problems|
+|-|-|
+|leetcode| [5. Longest Palindrome Substring](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/String/leetcode_05_Longest_Palindrome_Substring.py) |
+|leetcode| [49. Group Anagrams](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/String/leetcode_49_Group_Anagrams.py) |
+|leetcode| [125. Valid Palindrome](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/String/leetcode_125_Valid_Palindrome.py) |
+|leetcode| [344. Reverse String](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/String/leetcode_344_Reverse_String.py) |
+|leetcode| [819. Most Common Word](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/String/leetcode_819_Most_Common_Word.py) |
+|leetcode| [937. Reorder Log File](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/String/leetcode_937_Reorder_Log_File.py) |
+
 <br>
 
-### [2주차](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/2w.md)
-- 두 수의 합 (leetcode 01. Two Sum)
-- 빗물 트래핑 (leetcode 42. Trapping Rain Water)
-- 세 수의 합 (leetcode 15. 3Sum)
-- 배열 파티션 I (leetcode 561. Array Partition I)
-- 자신을 제외한 배열의 곱 (leetcode 238. Product of Array Except Self)
-- 주식을 사고팔기 가장 좋은 시점 (leetcode 121. Best Time to Buy and Sell Stock)
+## 2주차
+
+|Site|Problems|
+|-|-|
+|leetcode| [01. Two Sum](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Array/leetcode_01_Two_Sum.py) |
+|leetcode| [15. 3Sum](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Array/leetcode_15_3Sum.py) |
+|leetcode| [42. Trapping Rain Water](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Array/leetcode_42_Trapping_Rain_Water.py) |
+|leetcode| [121. Best Time to Buy and Sell Stock](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Array/leetcode_121_Best_Time_to_Buy_and_Sell_Stock.py) |
+|leetcode| [238. Product of Array Except Self](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Array/leetcode_238_Product_of_Array_Except_Self.py) |
+|leetcode| [561. Array Partition I](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Array/leetcode_561_Array_Partition_I.py) |
+
 <br>
 
-### [3주차](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/3w.ipynb)
-- 팰린드론 연결리스트 (234. Palindrome Linked List)
-- 두 정렬 리스트의 병합 (21. Merge Two Sorted Lists)
-- 역순 연결 리스트 (206. Reverse Linked List)
-- 두 수의 덧셈 (2. Add Two Numbers)
-- 페어의 노드 스왑 (24. Swap Nodes in Pairs)
+## 3주차
+
+|Site|Problems|
+|-|-|
+|leetcode| [2. Add Two Numbers](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Linked_list/leetcode_02_Add_Two_Numbers.py) |
+|leetcode| [21. Merge Two Sorted Lists](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Linked_list/leetcode_21_Merge_Two_Sorted_Lists.py) |
+|leetcode| [24. Swap Nodes in Pairs](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Linked_list/leetcode_24_Swap_Nodes_in_Pairs.py) |
+|leetcode| [206. Reverse Linked List](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Linked_list/leetcode_206_Reverse_Linked_List.py) |
+|leetcode| [234. Palindrome Linked List](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Linked_list/leetcode_234_Palindrome_Linked_List.py) |
+
 <br>
