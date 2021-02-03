@@ -8,16 +8,12 @@ leetcode - 20. Valid Parentheses
 Runtime: 32 ms
 Memory Usage: 14.3 MB
 """
-
-
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
         dic = {'(': ')', '[': ']', '{': '}'}
 
-        if len(s) <= 1: return False
-
-        for x in list(s):
+        for x in s:
             if x in dic:
                 stack.append(x)
             elif len(stack) >= 1:
@@ -28,3 +24,5 @@ class Solution:
                     return False
             else:
                 return False
+
+        return not stack
