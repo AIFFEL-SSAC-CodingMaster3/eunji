@@ -49,3 +49,11 @@
 |leetcode| [739. Daily Temperatures](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Stack_Queue/leetcode_739_Daily_Temperatures.py) |
 
 
+<br>
+
+## 5주차
+
+|Site|Problems|
+|-|-|
+|leetcode| [23. Merge k Sorted Lists](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Linked_list/leetcode_23_Merge_k_Sorted_Lists.py) |
+|leetcode| [641. Design Circular Deque](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Stack_Queue/leetcode_641_Design_Circular_Deque.py) |
