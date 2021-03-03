@@ -67,3 +67,14 @@
 |leetcode| [347. Top K Frequent Elements](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Hash/leetcode_347_Top_K_Frequent_Elements.py) |
 |leetcode| [706. Design HashMap](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Hash/leetcode_706_Design_HashMap.py) |
 |leetcode| [771. Jewels and Stones](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Hash/leetcode_771_Jewels_and_Stones.py) |
+
+<br>
+
+## 7주차
+
+|Site|Problems|
+|-|-|
+|leetcode| [17. Letter Combinations of a Phone Number](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Graph/leetcode_17_Letter_Combinations_of_a_Phone_Number.py) |
+|leetcode| [46. Permutations](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Graph/leetcode_46_Permutations.py) |
+|leetcode| [77. Combinations](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Graph/leetcode_77_Combinations.py) |
+|leetcode| [200. Number of Islands](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Graph/leetcode_200_Number_of_Islands.py) |
