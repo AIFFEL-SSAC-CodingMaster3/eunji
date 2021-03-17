@@ -84,3 +84,57 @@ class MyCircularDeque:
         Checks whether the circular deque is full or not.
         """
         return len(self.q) == self.k
+
+
+
+"""
+방법 2. 이중연결리스트로 구현
+"""
+
+
+class Node:
+    def __init__(self, val=None, right=None, left=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+
+class MyCircularDeque2:
+    def __init__(self, k: int):
+        self.k = k
+        self.cur = 0
+        self.head, self.tail = Node(), Node()
+        self.head.right = self.tail  # head -> tail 연결 (doubly linked list)
+        self.tail.left = self.head
+
+    def insertFront(self, value: int) -> bool:
+        if not self.isFull():
+            new = Node(value)
+            head_left = self.head
+            self.head = 0
+            self.cur += 1
+            return True
+
+    def insertLast(self, value: int) -> bool:
+        if not self.isFull():
+            pass
+
+    def deleteFront(self) -> bool:
+        if not self.isEmpty():
+            pass
+
+    def deleteLast(self) -> bool:
+        if not self.isEmpty():
+            pass
+
+    def getFront(self) -> int:
+        pass
+
+    def getRear(self) -> int:
+        pass
+
+    def isEmpty(self) -> bool:
+        return self.cur == 0
+
+    def isFull(self) -> bool:
+        return self.cur == self.k

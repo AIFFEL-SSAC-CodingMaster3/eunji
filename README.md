@@ -70,7 +70,7 @@
 
 <br>
 
-## 7주차
+## 7, 8주차
 
 |Site|Problems|
 |-|-|
@@ -78,3 +78,14 @@
 |leetcode| [46. Permutations](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Graph/leetcode_46_Permutations.py) |
 |leetcode| [77. Combinations](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Graph/leetcode_77_Combinations.py) |
 |leetcode| [200. Number of Islands](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Graph/leetcode_200_Number_of_Islands.py) |
+|leetcode| [332. Reconstruct Itinerary](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Graph/leetcode_332_Reconstruct_Itinerary.py) |
+
+<br>
+
+## 9주차
+
+|Site|Problems|
+|-|-|
+|leetcode| [104. Maximum Depth of Binary Tree](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Tree/leetcode_104_Maximum_Depth_of_Binary_Tree.py) |
+|leetcode| [226. Invert Binary Tree](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Tree/leetcode_226_Invert_Binary_Tree.py) |
+|leetcode| [543. Diameter of Binary Tree](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Tree/leetcode_543_Diameter_of_Binary_Tree.py) |
