@@ -22,7 +22,9 @@
 | Tree | [104. Maximum Depth of Binary Tree](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Tree/leetcode_104_Maximum_Depth_of_Binary_Tree.py) |
 | Array | [121. Best Time to Buy and Sell Stock](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Array/leetcode_121_Best_Time_to_Buy_and_Sell_Stock.py) |
 | String | [125. Valid Palindrome](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/String/leetcode_125_Valid_Palindrome.py) |
+| etc | [136. Single Number](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/etc/leetcode_136_Single_Number.py) |
 | Sort | [148. Sort List](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Sort/leetcode_148_Sort_List.py) |
+| etc | [167. Two Sum II - Input array is sorted](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/etc/leetcode_167_Two_Sum_II_Input_array_is_sorted.py) |
 | Graph | [200. Number of Islands](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Graph/leetcode_200_Number_of_Islands.py) |
 | Linked_list | [206. Reverse Linked List](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Linked_list/leetcode_206_Reverse_Linked_List.py) |
 | Tree | [215. Kth Largest Element in an Array](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Tree/leetcode_215_Kth_Largest_Element_in_an_Array.py) |
@@ -36,6 +38,8 @@
 | Graph | [332. Reconstruct Itinerary](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Graph/leetcode_332_Reconstruct_Itinerary.py) |
 | String | [344. Reverse String](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/String/leetcode_344_Reverse_String.py) |
 | Hash | [347. Top K Frequent Elements](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Hash/leetcode_347_Top_K_Frequent_Elements.py) |
+| etc | [349. Intersection of Two Arrays](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/etc/leetcode_349_Intersection_of_Two_Arrays.py) |
+| etc | [461. Hamming Distance](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/etc/leetcode_461_Hamming_Distance.py) |
 | Tree | [543. Diameter of Binary Tree](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Tree/leetcode_543_Diameter_of_Binary_Tree.py) |
 | Array | [561. Array Partition I](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Array/leetcode_561_Array_Partition_I.py) |
 | Stack_Queue | [641. Design Circular Deque](https://github.com/AIFFEL-SSAC-CodingMaster3/eunji/blob/main/Stack_Queue/leetcode_641_Design_Circular_Deque.py) |
